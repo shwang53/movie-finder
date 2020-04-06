@@ -1,0 +1,28 @@
+
+.search-block{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.search-bar{
+  padding: 0.5em 2em;
+  text-align:center;
+  width: 60%;
+  height: 2em;
+  border-radius: 10px;
+  margin: 2%;
+  
+}
+
+option{
+  float: right;
+}
+
+.labels{
+  display: flex;
+  margin-top: 6px;
+  justify-items: space-around;
+}
+
+
